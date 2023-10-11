@@ -4,3 +4,5 @@ pwd
 
 echo "ls in script"
 ls
+
+echo "end"
